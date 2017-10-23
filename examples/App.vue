@@ -101,6 +101,10 @@ export default {
               route: 'radio'
             },
             {
+              title: 'Select 选择器',
+              route: 'select'
+            },
+            {
               title: 'Switch 开关',
               route: 'switch'
             }
