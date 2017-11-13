@@ -27,10 +27,6 @@ export function isMultiple (props) {
   return props.multiple
 }
 
-export function isCombobox (props) {
-  return props.combobox
-}
-
 export function isMultipleOrTags (props) {
   return props.multiple || props.tags
 }
